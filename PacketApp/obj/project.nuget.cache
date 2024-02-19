@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AedmxrH+Ki0mYZ8+qfqurh8WUepDIXllDhzHLsdkY8i7bF2Rgt+F/KXo8nqvxZ+zXYN9pJgvIFIWTQ/aMara/g==",
+  "success": true,
+  "projectFilePath": "D:\\Rider\\projects\\PacketApp\\PacketApp\\PacketApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Isa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
